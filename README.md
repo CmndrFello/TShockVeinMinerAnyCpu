@@ -1,9 +1,12 @@
-# TSHockVeinMiner
-VeinMiner Plugin for TShock, allows you to edit blocks that you want to be veinmined as well allows you to give your players certain rewards for veinmining big veins!
+# TShockVeinMinerAnyCPU
+This is a fork of TSHockVeinMiner that allows the plugin to run on ARM64 servers.
 
-- Originally made by [Megghy](https://github.com/Megghy)
-- Updated to **TShock** `5.0` and translated to English by [YSpood](https://github.com/YSpoof)
-- Bug fixes and updated dependencies by me.
+- Forked from [Fireball_2000](https://github.com/Maxthegreat99)
+- Updated to **TShock** 6.1.0
+- Configures project to build for "Any CPU"
+
+### Original Description
+VeinMiner Plugin for TShock, allows you to edit blocks that you want to be veinmined as well allows you to give your players certain rewards for veinmining big veins!
 
 ## How to Install
 1. Put the .dll into the `\ServerPlugins\` folder.
